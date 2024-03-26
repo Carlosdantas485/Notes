@@ -1,24 +1,19 @@
-Definir o objetivo do documento de padrão de gerenciamento de glossário é fundamental para garantir que ele atenda às necessidades da organização e dos usuários. Aqui estão algumas etapas para ajudá-lo a definir o objetivo:
+Estabelecer o escopo do documento de padrão de gerenciamento de glossário é essencial para definir claramente quais termos serão incluídos e quais aspectos do gerenciamento de glossário serão abordados. Aqui estão algumas etapas para ajudá-lo a estabelecer o escopo de forma eficaz:
 
-Identificar as Necessidades da Organização: Comece identificando por que a organização precisa de um padrão de gerenciamento de glossário. Isso pode incluir a necessidade de garantir a consistência no uso de termos, melhorar a comunicação entre equipes ou garantir conformidade com regulamentações de privacidade de dados.
+Identificar os Objetivos do Glossário: Antes de determinar o escopo, é importante ter uma compreensão clara dos objetivos do glossário e para que ele será usado. Isso ajudará a orientar as decisões sobre o escopo.
 
-Consultar as Partes Interessadas: Envolver as partes interessadas relevantes, como equipes de dados, analistas de negócios, desenvolvedores de software e conformidade com regulamentações, para entender suas necessidades e expectativas em relação ao glossário.
+Mapear os Usuários e Interessados: Identifique os principais usuários e interessados que estarão envolvidos no uso do glossário. Isso pode incluir equipes de dados, desenvolvedores de software, analistas de negócios, entre outros.
 
-Estabelecer Objetivos Específicos: Com base nas necessidades identificadas e nas consultas às partes interessadas, estabeleça objetivos específicos para o documento de padrão de gerenciamento de glossário. Esses objetivos devem ser claros, mensuráveis e alinhados com as metas organizacionais.
+Analisar as Necessidades dos Usuários: Entenda as necessidades e requisitos dos usuários em relação ao glossário. Isso pode ser feito por meio de entrevistas, pesquisas ou análise de casos de uso.
 
-Exemplos de Objetivos:
+Definir os Limites do Glossário: Determine quais termos serão incluídos no glossário e quais serão excluídos. Isso pode ser feito com base em critérios como relevância para a organização, frequência de uso e importância estratégica.
 
-Garantir a consistência no uso de terminologia em toda a organização.
-Facilitar a comunicação e a colaboração entre equipes e departamentos.
-Melhorar a compreensão e interpretação dos dados.
-Apoiar iniciativas de conformidade com regulamentações de privacidade de dados.
-Promover a integração de sistemas e aplicativos por meio de uma terminologia comum.
-Documentar os Objetivos: Uma vez que os objetivos tenham sido estabelecidos, documente-os claramente no início do documento de padrão de gerenciamento de glossário. Isso ajudará a manter o foco e a garantir que o glossário atenda aos objetivos estabelecidos.
+Considerar a Abrangência e a Profundidade: Decida até que ponto o glossário será abrangente e detalhado. Por exemplo, ele pode incluir apenas termos comuns e amplamente utilizados ou também pode abranger termos mais especializados e técnicos.
 
-Comunicar os Objetivos: Comunique os objetivos do documento de padrão de gerenciamento de glossário para toda a organização. Isso ajudará a garantir que todos os envolvidos estejam cientes do propósito do glossário e estejam comprometidos em alcançar os objetivos estabelecidos.
+Definir os Aspectos a Serem Abordados: Além da definição de termos, determine quais outros aspectos do gerenciamento de glossário serão abordados. Isso pode incluir padrões de nomenclatura, atribuição de responsabilidades, processos de manutenção, entre outros.
 
-Ao definir claramente o objetivo do documento de padrão de gerenciamento de glossário, você pode garantir que ele atenda às necessidades da organização e forneça valor significativo para os usuários.
+Documentar o Escopo: Depois de estabelecer o escopo, documente-o de forma clara e concisa. Isso ajudará a garantir que todos os envolvidos tenham uma compreensão comum do que está incluído no glossário e do que não está.
 
+Revisar e Refinar: Revise o escopo do glossário periodicamente para garantir que ele continue alinhado com as necessidades da organização e dos usuários. Faça ajustes conforme necessário com base no feedback e nas mudanças nas circunstâncias.
 
-
-
+Ao seguir essas etapas, você poderá estabelecer um escopo claro e abrangente para o seu documento de padrão de gerenciamento de glossário, garantindo que ele atenda às necessidades da organização e dos usuários.
