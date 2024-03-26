@@ -1,19 +1,31 @@
-Estabelecer o escopo do documento de padrão de gerenciamento de glossário é essencial para definir claramente quais termos serão incluídos e quais aspectos do gerenciamento de glossário serão abordados. Aqui estão algumas etapas para ajudá-lo a estabelecer o escopo de forma eficaz:
+Criar definições de termos envolve fornecer uma explicação clara e concisa do significado de cada termo. Aqui estão algumas diretrizes para ajudá-lo a criar definições de termos eficazes:
 
-Identificar os Objetivos do Glossário: Antes de determinar o escopo, é importante ter uma compreensão clara dos objetivos do glossário e para que ele será usado. Isso ajudará a orientar as decisões sobre o escopo.
+Seja Conciso e Preciso: Procure ser sucinto ao explicar o significado do termo, evitando jargões desnecessários. A definição deve ser clara e fácil de entender.
 
-Mapear os Usuários e Interessados: Identifique os principais usuários e interessados que estarão envolvidos no uso do glossário. Isso pode incluir equipes de dados, desenvolvedores de software, analistas de negócios, entre outros.
+Use Linguagem Simples: Evite utilizar linguagem técnica ou termos complexos que possam dificultar a compreensão. Adapte a linguagem ao público-alvo do documento.
 
-Analisar as Necessidades dos Usuários: Entenda as necessidades e requisitos dos usuários em relação ao glossário. Isso pode ser feito por meio de entrevistas, pesquisas ou análise de casos de uso.
+Forneça Exemplos: Se apropriado, inclua exemplos para ilustrar como o termo é usado na prática. Isso pode ajudar os leitores a entender melhor o conceito.
 
-Definir os Limites do Glossário: Determine quais termos serão incluídos no glossário e quais serão excluídos. Isso pode ser feito com base em critérios como relevância para a organização, frequência de uso e importância estratégica.
+Evite Ambiguidade: Certifique-se de que a definição seja inequívoca e não deixe espaço para interpretações diferentes. Evite ambiguidade ou dupla interpretação.
 
-Considerar a Abrangência e a Profundidade: Decida até que ponto o glossário será abrangente e detalhado. Por exemplo, ele pode incluir apenas termos comuns e amplamente utilizados ou também pode abranger termos mais especializados e técnicos.
+Contextualize quando Necessário: Em alguns casos, pode ser útil fornecer informações sobre o contexto em que o termo é usado na organização ou na indústria em geral.
 
-Definir os Aspectos a Serem Abordados: Além da definição de termos, determine quais outros aspectos do gerenciamento de glossário serão abordados. Isso pode incluir padrões de nomenclatura, atribuição de responsabilidades, processos de manutenção, entre outros.
+Seja Consistente: Mantenha a consistência na forma como os termos são definidos em todo o documento ou glossário. Isso ajuda a evitar confusão e garantir clareza.
 
-Documentar o Escopo: Depois de estabelecer o escopo, documente-o de forma clara e concisa. Isso ajudará a garantir que todos os envolvidos tenham uma compreensão comum do que está incluído no glossário e do que não está.
+Revise e Atualize Regularmente: As definições de termos podem precisar ser revisadas e atualizadas conforme novos contextos ou entendimentos surgem. Certifique-se de manter o glossário ou documento de padrão de gerenciamento de glossário atualizado.
 
-Revisar e Refinar: Revise o escopo do glossário periodicamente para garantir que ele continue alinhado com as necessidades da organização e dos usuários. Faça ajustes conforme necessário com base no feedback e nas mudanças nas circunstâncias.
+Aqui está um exemplo de como uma definição de termo pode ser estruturada:
 
-Ao seguir essas etapas, você poderá estabelecer um escopo claro e abrangente para o seu documento de padrão de gerenciamento de glossário, garantindo que ele atenda às necessidades da organização e dos usuários.
+Termo: Dados Pessoais
+
+Definição: Dados pessoais referem-se a qualquer informação relacionada a uma pessoa identificada ou identificável. Isso inclui, mas não se limita a, nomes, endereços, números de identificação, dados biométricos, informações de contato e qualquer outra informação que possa ser usada para identificar diretamente ou indiretamente uma pessoa física.
+
+Exemplo: Um exemplo de dados pessoais é o número de CPF (Cadastro de Pessoas Físicas) no Brasil, que é usado para identificar de forma única cada cidadão brasileiro.
+
+Contexto: Dados pessoais são protegidos por regulamentações de privacidade, como o GDPR na União Europeia e a LGPD no Brasil. É importante garantir que o tratamento desses dados esteja em conformidade com as leis e regulamentos aplicáveis.
+
+Responsável: Equipe de conformidade com a privacidade de dados.
+
+Data de Revisão: 26 de março de 2024.
+
+Adaptar cada definição de acordo com o contexto e necessidades específicas da sua organização ajudará a criar um glossário ou documento de padrão de gerenciamento de glossário eficaz.
