@@ -1,29 +1,47 @@
-Escopo do Documento de Padrão de Gerenciamento de Glossário
+Nesta seção, apresentamos o modelo padrão a ser seguido para documentar cada termo no glossário. Este modelo fornecerá uma estrutura consistente para garantir que todas as definições sejam claras, precisas e completas.
 
-Objetivos:
+Cada entrada no glossário seguirá a seguinte estrutura:
 
-Garantir a consistência no uso de terminologia em toda a organização.
-Facilitar a comunicação e a colaboração entre equipes e departamentos.
-Apoiar iniciativas de conformidade com regulamentações de privacidade de dados.
-Promover a integração de sistemas e aplicativos por meio de uma terminologia comum.
-Usuários e Interessados:
+Termo: O próprio termo que está sendo definido.
+Definição: Uma explicação clara e concisa do significado do termo.
+Sinônimos: Outros termos que podem ser usados como sinônimos do termo principal, se aplicável.
+Exemplos: Exemplos de como o termo é usado na prática, se apropriado.
+Contexto: Informações sobre onde e como o termo é aplicado na organização.
+Responsável: A pessoa ou equipe responsável por manter e atualizar a definição do termo.
+Data de Revisão: Data da última revisão da definição do termo.
 
-Equipes de dados
-Desenvolvedores de software
-Analistas de negócios
-Equipes de conformidade com regulamentações de privacidade de dados
-Limites do Glossário:
 
-O glossário incluirá termos relacionados a produtos, processos e conceitos comumente usados em toda a empresa.
-Termos altamente técnicos e especializados podem ser incluídos, desde que sejam relevantes para múltiplas equipes e projetos.
-Termos específicos de um único projeto ou departamento podem ser excluídos, a menos que tenham uma aplicação mais ampla em toda a organização.
-Abrangência e Profundidade:
+Para montar o item 5, que trata do "Modelo de Documentação", você pode seguir estas etapas:
 
-O glossário será abrangente o suficiente para cobrir uma ampla gama de termos usados em diferentes áreas da empresa, desde desenvolvimento de software até operações de negócios.
-A profundidade das definições variará de acordo com a importância estratégica e a frequência de uso dos termos. Termos mais críticos terão definições mais detalhadas e exemplos de uso.
-Aspectos Abordados:
+5. Modelo de Documentação
 
-Definições claras e concisas de cada termo, incluindo exemplos de uso quando apropriado.
-Padrões de nomenclatura para garantir consistência na criação de novos termos.
-Atribuição de responsabilidades para garantir a manutenção e atualização contínua do glossário.
-Processos de revisão e atualização regulares para manter o glossário relevante e preciso.
+Nesta seção, apresentamos o modelo padrão a ser seguido para documentar cada termo no glossário. Este modelo fornecerá uma estrutura consistente para garantir que todas as definições sejam claras, precisas e completas.
+
+5.1 Estrutura do Modelo
+
+Cada entrada no glossário seguirá a seguinte estrutura:
+
+Termo: O próprio termo que está sendo definido.
+Definição: Uma explicação clara e concisa do significado do termo.
+Sinônimos: Outros termos que podem ser usados como sinônimos do termo principal, se aplicável.
+Exemplos: Exemplos de como o termo é usado na prática, se apropriado.
+Contexto: Informações sobre onde e como o termo é aplicado na organização.
+Responsável: A pessoa ou equipe responsável por manter e atualizar a definição do termo.
+Data de Revisão: Data da última revisão da definição do termo.
+5.2 Exemplo de Entrada no Glossário
+
+Aqui está um exemplo de como uma entrada no glossário será documentada:
+
+Termo: Dados Pessoais
+
+Definição: Dados pessoais referem-se a qualquer informação relacionada a uma pessoa identificada ou identificável. Isso inclui, mas não se limita a, nomes, endereços, números de identificação, dados biométricos, informações de contato e qualquer outra informação que possa ser usada para identificar diretamente ou indiretamente uma pessoa física.
+
+Sinônimos: Informações pessoais, dados de identificação pessoal (DIP)
+
+Exemplos: Um exemplo de dados pessoais é o número de CPF (Cadastro de Pessoas Físicas) no Brasil, que é usado para identificar de forma única cada cidadão brasileiro.
+
+Contexto: Dados pessoais são protegidos por regulamentações de privacidade, como o GDPR na União Europeia e a LGPD no Brasil. É importante garantir que o tratamento desses dados esteja em conformidade com as leis e regulamentos aplicáveis.
+
+Responsável: Equipe de conformidade com a privacidade de dados.
+
+Data de Revisão: 26 de março de 2024.
