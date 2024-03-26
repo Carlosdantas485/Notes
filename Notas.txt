@@ -1,31 +1,18 @@
-Criar definições de termos envolve fornecer uma explicação clara e concisa do significado de cada termo. Aqui estão algumas diretrizes para ajudá-lo a criar definições de termos eficazes:
+Identificar as Necessidades da Organização: Comece identificando por que a organização precisa de um padrão de gerenciamento de glossário. Isso pode incluir a necessidade de garantir a consistência no uso de termos, melhorar a comunicação entre equipes ou garantir conformidade com regulamentações de privacidade de dados.
 
-Seja Conciso e Preciso: Procure ser sucinto ao explicar o significado do termo, evitando jargões desnecessários. A definição deve ser clara e fácil de entender.
+Consultar as Partes Interessadas: Envolver as partes interessadas relevantes, como equipes de dados, analistas de negócios, desenvolvedores de software e conformidade com regulamentações, para entender suas necessidades e expectativas em relação ao glossário.
 
-Use Linguagem Simples: Evite utilizar linguagem técnica ou termos complexos que possam dificultar a compreensão. Adapte a linguagem ao público-alvo do documento.
+Estabelecer Objetivos Específicos: Com base nas necessidades identificadas e nas consultas às partes interessadas, estabeleça objetivos específicos para o documento de padrão de gerenciamento de glossário. Esses objetivos devem ser claros, mensuráveis e alinhados com as metas organizacionais.
 
-Forneça Exemplos: Se apropriado, inclua exemplos para ilustrar como o termo é usado na prática. Isso pode ajudar os leitores a entender melhor o conceito.
+Exemplos de Objetivos:
 
-Evite Ambiguidade: Certifique-se de que a definição seja inequívoca e não deixe espaço para interpretações diferentes. Evite ambiguidade ou dupla interpretação.
+Garantir a consistência no uso de terminologia em toda a organização.
+Facilitar a comunicação e a colaboração entre equipes e departamentos.
+Melhorar a compreensão e interpretação dos dados.
+Apoiar iniciativas de conformidade com regulamentações de privacidade de dados.
+Promover a integração de sistemas e aplicativos por meio de uma terminologia comum.
+Documentar os Objetivos: Uma vez que os objetivos tenham sido estabelecidos, documente-os claramente no início do documento de padrão de gerenciamento de glossário. Isso ajudará a manter o foco e a garantir que o glossário atenda aos objetivos estabelecidos.
 
-Contextualize quando Necessário: Em alguns casos, pode ser útil fornecer informações sobre o contexto em que o termo é usado na organização ou na indústria em geral.
+Comunicar os Objetivos: Comunique os objetivos do documento de padrão de gerenciamento de glossário para toda a organização. Isso ajudará a garantir que todos os envolvidos estejam cientes do propósito do glossário e estejam comprometidos em alcançar os objetivos estabelecidos.
 
-Seja Consistente: Mantenha a consistência na forma como os termos são definidos em todo o documento ou glossário. Isso ajuda a evitar confusão e garantir clareza.
-
-Revise e Atualize Regularmente: As definições de termos podem precisar ser revisadas e atualizadas conforme novos contextos ou entendimentos surgem. Certifique-se de manter o glossário ou documento de padrão de gerenciamento de glossário atualizado.
-
-Aqui está um exemplo de como uma definição de termo pode ser estruturada:
-
-Termo: Dados Pessoais
-
-Definição: Dados pessoais referem-se a qualquer informação relacionada a uma pessoa identificada ou identificável. Isso inclui, mas não se limita a, nomes, endereços, números de identificação, dados biométricos, informações de contato e qualquer outra informação que possa ser usada para identificar diretamente ou indiretamente uma pessoa física.
-
-Exemplo: Um exemplo de dados pessoais é o número de CPF (Cadastro de Pessoas Físicas) no Brasil, que é usado para identificar de forma única cada cidadão brasileiro.
-
-Contexto: Dados pessoais são protegidos por regulamentações de privacidade, como o GDPR na União Europeia e a LGPD no Brasil. É importante garantir que o tratamento desses dados esteja em conformidade com as leis e regulamentos aplicáveis.
-
-Responsável: Equipe de conformidade com a privacidade de dados.
-
-Data de Revisão: 26 de março de 2024.
-
-Adaptar cada definição de acordo com o contexto e necessidades específicas da sua organização ajudará a criar um glossário ou documento de padrão de gerenciamento de glossário eficaz.
+Ao definir claramente o objetivo do documento de padrão de gerenciamento de glossário, você pode garantir que ele atenda às necessidades da organização e forneça valor significativo para os usuários.
