@@ -1,0 +1,31 @@
+Criar definições de termos envolve fornecer uma explicação clara e concisa do significado de cada termo. Aqui estão algumas diretrizes para ajudá-lo a criar definições de termos eficazes:
+
+Seja Conciso e Preciso: Procure ser sucinto ao explicar o significado do termo, evitando jargões desnecessários. A definição deve ser clara e fácil de entender.
+
+Use Linguagem Simples: Evite utilizar linguagem técnica ou termos complexos que possam dificultar a compreensão. Adapte a linguagem ao público-alvo do documento.
+
+Forneça Exemplos: Se apropriado, inclua exemplos para ilustrar como o termo é usado na prática. Isso pode ajudar os leitores a entender melhor o conceito.
+
+Evite Ambiguidade: Certifique-se de que a definição seja inequívoca e não deixe espaço para interpretações diferentes. Evite ambiguidade ou dupla interpretação.
+
+Contextualize quando Necessário: Em alguns casos, pode ser útil fornecer informações sobre o contexto em que o termo é usado na organização ou na indústria em geral.
+
+Seja Consistente: Mantenha a consistência na forma como os termos são definidos em todo o documento ou glossário. Isso ajuda a evitar confusão e garantir clareza.
+
+Revise e Atualize Regularmente: As definições de termos podem precisar ser revisadas e atualizadas conforme novos contextos ou entendimentos surgem. Certifique-se de manter o glossário ou documento de padrão de gerenciamento de glossário atualizado.
+
+Aqui está um exemplo de como uma definição de termo pode ser estruturada:
+
+Termo: Dados Pessoais
+
+Definição: Dados pessoais referem-se a qualquer informação relacionada a uma pessoa identificada ou identificável. Isso inclui, mas não se limita a, nomes, endereços, números de identificação, dados biométricos, informações de contato e qualquer outra informação que possa ser usada para identificar diretamente ou indiretamente uma pessoa física.
+
+Exemplo: Um exemplo de dados pessoais é o número de CPF (Cadastro de Pessoas Físicas) no Brasil, que é usado para identificar de forma única cada cidadão brasileiro.
+
+Contexto: Dados pessoais são protegidos por regulamentações de privacidade, como o GDPR na União Europeia e a LGPD no Brasil. É importante garantir que o tratamento desses dados esteja em conformidade com as leis e regulamentos aplicáveis.
+
+Responsável: Equipe de conformidade com a privacidade de dados.
+
+Data de Revisão: 26 de março de 2024.
+
+Adaptar cada definição de acordo com o contexto e necessidades específicas da sua organização ajudará a criar um glossário ou documento de padrão de gerenciamento de glossário eficaz.
