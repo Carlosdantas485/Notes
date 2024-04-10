@@ -1,18 +1,1 @@
-5. Modelo de Documentação
-
-Nesta seção, apresentamos o modelo padrão a ser seguido para documentar cada termo no glossário. Este modelo fornecerá uma estrutura consistente para garantir que todas as definições sejam claras, precisas e completas.
-
-5.1 Estrutura do Modelo
-
-Cada entrada no glossário seguirá a seguinte estrutura:
-
-Termo: O próprio termo que está sendo definido.
-Definição: Uma explicação clara e concisa do significado do termo.
-Sinônimos: Outros termos que podem ser usados como sinônimos do termo principal, se aplicável.
-Exemplos: Exemplos de como o termo é usado na prática, se apropriado.
-Contexto: Informações sobre onde e como o termo é aplicado na organização.
-Responsável: A pessoa ou equipe responsável por manter e atualizar a definição do termo.
-Data de Revisão: Data da última revisão da definição do termo.
-5.2 Exemplo de Entrada no Glossário
-
-Aqui está um exemplo de como uma entrada no glossário será documentada:
+Uma gestão de dados eficaz não se trata apenas de coletar e armazenar dados, mas sim de entender o valor intrínseco desses dados e utilizá-los de maneira inteligente e estratégica. Isso envolve estabelecer políticas e processos para garantir a qualidade, segurança e conformidade dos dados, bem como investir em tecnologias e ferramentas adequadas para analisar e interpretar esses dados.
